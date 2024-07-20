@@ -1,0 +1,89 @@
+body{
+    background-color: #2C2F83;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.name {
+    color: white;
+    font-size: 22px;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+hr{
+    width: 75%;
+    margin-bottom: 40px;
+}
+
+/* INTRODUCTION SECTION */
+
+.intro-container{
+    display: flex;
+    /* background-color: aqua; */
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 10%;
+}
+.intro{
+    width: 70%;
+}
+/* left */
+.intro-left{
+    padding-top: 10%;
+    color:white;
+}
+.intro div{
+    margin-left: 15%;
+}
+#intro-part1{
+    font-size: 65px;
+    padding-bottom: 30px;
+}
+.intro-part2{
+    font-size: 23px;
+    padding-bottom: 30px;
+}
+.intro ul{
+    width: 70%;
+    margin-left: 15%;
+
+    li{
+        font-size: 18px;
+    }
+}
+
+/* right */
+img{
+    width:460px;
+    height:560px;
+}
+
+/* ABOUT ME SECTION */
+.about-me{
+    background-color: #FCE7DA;
+    color: #2C2F83;
+    padding-top: 10%;
+    padding-bottom: 10%;
+}
+#about-me-title{
+    font-size: 40px;
+    text-align: center;
+    width: 100%;
+}
+.about-me-section{
+    display: flex;
+    padding: 5% 5% 0% 5%;
+}
+.about-me-section img{
+    width: 694px;
+    height: 460px;
+}
+.about-me-description{
+    display: flex;
+    flex-direction: column;
+    margin-left: 5%;
+    justify-content: center;
+}
+.desc-part2, .desc-part3{
+    margin-top: 15%;
+}
+
