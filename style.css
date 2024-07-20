@@ -73,7 +73,6 @@ hr{
     right: 101px;
     display: none;
 }
-
 .intro-right:hover .intro-caption{
     display: block;
 }
