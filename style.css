@@ -73,10 +73,12 @@ img{
     display: flex;
     padding: 5% 5% 0% 5%;
 }
+/* left */
 .about-me-section img{
     width: 694px;
     height: 460px;
 }
+/* right */
 .about-me-description{
     display: flex;
     flex-direction: column;
